@@ -17,7 +17,7 @@
 
 * 🚀 Apasionado por la web futurista y la creación de experiencias **Neón + Glassmorphism**.
 * 🛠 Actualmente construyendo mi **Portafolio/CV Digital** con **Astro**.
-* 🎯 Busco oportunidades como **Front‑End / Full‑Stack Developer**.
+* 🎯 Busco oportunidades como **SysAdmin/ Frontend Dev**.
 
 ## 🚀 Tech Stack & Tools
 
@@ -41,8 +41,8 @@
 
 | Proyecto                   | Descripción                                                             | Demo                                                     |
 | -------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------- |
-| **Portfolio 7 CV Digital** | Mi página personal con framer‑motion, Astro Islands y UI glassmorphism. | [Visitar](https://jesusbruzon.github.io)                 |
-| **NombreDeProyecto**       | Breve descripción de lo que hace tu proyecto principal.                 | [Repo](https://github.com/jesusbruzong/NombreDeProyecto) |
+| **Portfolio Digital** | Mi página personal con framer‑motion, Astro Islands y UI glassmorphism. | [Visitar](https://jesusbruzon.github.io)                 |
+| **tgbot**       | pequeño bot para automatizar telegram                 | [Repo](https://github.com/jesusbruzong/tgbot) |
 
 ## 📝 Últimas Publicaciones
 
@@ -52,13 +52,14 @@
 
 ## 🌐 Conecta conmigo
 
-<a href="https://www.linkedin.com/in/jesusbruzon/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:tu.email@ejemplo.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="https://jesusbruzon.github.io" target="_blank"><img align="center" src="https://img.shields.io/badge/Portafolio-915EFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" /></a>
+<a href="https://www.linkedin.com/in/jesusbruzon/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:jesusbruzong@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="https://jesusbruzon.github.io" target="_blank"><img align="center" src="https://img.shields.io/badge/Portafolio-915EFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" /></a>
 
 ## 🧑‍💻 Actualmente Aprendiendo
 
 * Diseño de animaciones avanzadas con **Framer Motion**
 * Arquitectura clean con **NestJS**
 * CI/CD y testing e2e
+* Diseño dinamico con astro
 
 ## 💡 Frase que me define
 
