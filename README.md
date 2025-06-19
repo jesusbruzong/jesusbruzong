@@ -27,7 +27,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-3c873a?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-fff?style=for-the-badge\&logo=figma\&logoColor=F24E1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🏆 GitHub Stats
 
